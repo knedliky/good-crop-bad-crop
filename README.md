@@ -1,2 +1,2 @@
-# good-crop-bad-crop
-Remote sensing sugarcane in the Proserpine region
+# Good Crop, Bad Crop
+## Remote sensing sugarcane in the Proserpine region
