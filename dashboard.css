@@ -1,0 +1,31 @@
+html, body {
+    margin: 0%;
+    height: 100%;
+}
+
+#container {
+    display: grid;
+    background-color: darksalmon;
+    grid-template-columns: 30% 1fr;
+    grid-template-rows: 15% 1fr 30%;
+    height: 100%;
+}
+
+#header {
+    background-color: darkolivegreen;
+}
+
+#sidebar {
+    background-color: aquamarine;
+    grid-row: 2/4;
+}
+
+#map {
+    background-color: blue;
+    grid-column: 2/3;
+    grid-row: 1/3;
+}
+
+#gndvi-graph {
+    background-color: brown;
+}
