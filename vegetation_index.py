@@ -25,5 +25,5 @@ def calculate_endvi():
 def calculate_ndre():
     return (NIR - RED_EDGE) / (NIR + RED_EDGE)
 
-if __name__ == 'main':
+if __name__ == '__main__':
     print("This shouldn't run")
